@@ -28,6 +28,4 @@
   <a href="https://www.behance.net/carolaiferraz"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
   <a href = "mailto:carolaine.ferrazemp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/CarolaineAlexandre/CarolaineAlexandre/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
