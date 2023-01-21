@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Carolaine Alexandre
 
 - 🔭 Sou fascinada por tecnologia e ciência
-- 🌱 Análise e Desenvolvimento de Sistemas 2/6
+- 🌱 Análise e Desenvolvimento de Sistemas 3/6
 
 <div align="center">
   <a href="https://github.com/CarolaineAlexandre">
