@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Carolaine Alexandre
 
-- 🔭 Sou fascinada por tecnologia
+- 🔭 Sou fascinada por tecnologia e ciência
 - 🌱 Análise e Desenvolvimento de Sistemas 2/6
 
 <div align="center">
