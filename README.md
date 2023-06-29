@@ -1,7 +1,39 @@
-## Olá! Eu sou a Carolaine Alexandre
+<h1 align="center">Carolaine Alexandre</h1>
+<p align="center">
+  <img src="https://github.com/CarolaineAlexandre/CarolaineAlexandre/blob/main/assets/banner.png" alt="Banner Carolaine Alexandre">
+</p>
 
-- 🔭 Sou fascinada por tecnologia e ciência
-- 🌱 Análise e Desenvolvimento de Sistemas 3/6
+<p align="center">
+  <a href="https://www.linkedin.com/in/carolaine-ferraz-alexandre/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.instagram.com/caferraz__/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.behance.net/carolaiferraz"><img src="https://img.shields.io/badge/Behance-View-053eff?style=for-the-badge&logo=behance"></a>
+</p>
+
+## Sobre Mim
+
+Olá! 👋 Sou a Carolaine Alexandre, uma entusiasta da tecnologia apaixonada por resolver problemas por meio do desenvolvimento de software. Estou sempre em busca de novos desafios que me permitam aprender e crescer como profissional. Tenho conhecimentos em diferentes áreas, desde desenvolvimento web até análise de dados.
+
+- 👩‍💻 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Estou sempre aprendendo algo novo e me aprimorando em minhas habilidades técnicas.
+- 💡 Sou uma pessoa criativa e adoro encontrar soluções inovadoras para os problemas.
+- 💬 Estou aberta a colaborações e oportunidades interessantes.
+
+## Habilidades
+
+- 💻 Linguagens de programação: JavaScript, Python, HTML, CSS.
+- 🌐 Desenvolvimento web: React, Node.js, Express.js.
+- 📊 Análise de dados: SQL, Power BI, Excel.
+- 🎨 Design: Adobe Photoshop, Adobe Illustrator.
+
+## Projetos Destacados
+
+- 🚀 [Projeto 1](link-do-projeto): Breve descrição do projeto e tecnologias utilizadas.
+- 🚀 [Projeto 2](link-do-projeto): Breve descrição do projeto e tecnologias utilizadas.
+- 🚀 [Projeto 3](link-do-projeto): Breve descrição do projeto e tecnologias utilizadas.
+
+Confira meu [portfolio](https://seu-portfolio.com) para mais detalhes sobre esses projetos e outros trabalhos.
+
+## Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/CarolaineAlexandre">
@@ -9,23 +41,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolaineAlexandre&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--  <img align="center" alt="Carol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
-<!--  <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!--  <img align="center" alt="Carol-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-</div>
- 
- ##
- 
-<div> 
- <a href="https://www.linkedin.com/in/carolaine-ferraz-alexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/caferraz__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/carolaiferraz"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
-  <a href = "mailto:carolaine.ferrazemp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
+## Entre em Contato
+
+- LinkedIn: [carolaine-ferraz-alexandre](https://www.linkedin.com/in/carolaine-ferraz-alexandre/)
+- E-mail: [seu-email@exemplo.com]
+- Portfolio: [seu-portfolio]
+- Instagram: [@caferraz__](https://www.instagram.com/caferraz__/)
+
+Vamos nos conectar e discutir sobre desenvolvimento, tecnologia e projetos interessantes! Será um prazer trocar ideias e colaborar em iniciativas incríveis. 😄
+
+
