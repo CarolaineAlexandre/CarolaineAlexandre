@@ -1,6 +1,6 @@
 <h1 align="center">Carolaine Alexandre</h1>
 <p align="center">
-  <img src="https://github.com/CarolaineAlexandre/CarolaineAlexandre/blob/main/assets/banner.png" alt="Banner Carolaine Alexandre">
+  <img src="https://www.canva.com/design/DAFnPIBDag8/oA5C6bcejYFt39P6JYPTqQ/edit?utm_content=DAFnPIBDag8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner Carolaine Alexandre">
 </p>
 
 <p align="center">
