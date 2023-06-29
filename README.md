@@ -29,7 +29,7 @@ Olá! 👋 Sou a Carolaine Alexandre, uma entusiasta da tecnologia apaixonada po
 
 - 🚀 [Habit tracker](https://carolainealexandre.github.io/nlwSetup-rocketseat-habits/): App para usar como assistente de controle de hábitos estudando fundamentos da programação e tecnologias como HTML, CSS, JavaScript, Git e Github de maneira prática!
 - 🚀 [Portfólio](https://carolainealexandre.github.io/Carolaine-Alexandre/): Um portfólio de página em HTML e CSS que exibe projetos e habilidades profissionais em um layout visualmente atraente e interativo.
-- 🚀 [Projeto 3](link-do-projeto): Breve descrição do projeto e tecnologias utilizadas.
+- 🚀 [POKE API](https://carolainealexandre.github.io/desafio-pokeApi/): Uma página utilizando a API Pokémon para exibir informações e detalhes sobre diferentes Pokémon em um formato interativo.
 
 Confira meu [portfolio](https://carolainealexandre.github.io/Carolaine-Alexandre) para mais detalhes sobre esses projetos e outros trabalhos.
 
