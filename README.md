@@ -20,10 +20,10 @@ Olá! 👋 Sou a Carolaine Alexandre, uma entusiasta da tecnologia apaixonada po
 
 ## Habilidades
 
-- 💻 Linguagens de programação: JavaScript, Python, HTML, CSS.
-- 🌐 Desenvolvimento web: React, Node.js, Express.js.
-- 📊 Análise de dados: SQL, Power BI, Excel.
-- 🎨 Design: Adobe Photoshop, Adobe Illustrator.
+- 💻 Linguagens de programação: JavaScript, Python, CSS.
+- 🌐 Desenvolvimento web: React, Node.js.
+- 📊 Banco de dados: SQL server.
+- 🎨 Design: Adobe Photoshop, Corel DRAW.
 
 ## Projetos Destacados
 
