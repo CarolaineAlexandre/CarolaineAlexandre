@@ -27,11 +27,11 @@ Olá! 👋 Sou a Carolaine Alexandre, uma entusiasta da tecnologia apaixonada po
 
 ## Projetos Destacados
 
-- 🚀 [Projeto 1](link-do-projeto): Breve descrição do projeto e tecnologias utilizadas.
+- 🚀 [Habit tracker](https://carolainealexandre.github.io/nlwSetup-rocketseat-habits/): App para usar como assistente de controle de hábitos estudando fundamentos da programação e tecnologias como HTML, CSS, JavaScript, Git e Github de maneira prática!
 - 🚀 [Projeto 2](link-do-projeto): Breve descrição do projeto e tecnologias utilizadas.
 - 🚀 [Projeto 3](link-do-projeto): Breve descrição do projeto e tecnologias utilizadas.
 
-Confira meu [portfolio](https://seu-portfolio.com) para mais detalhes sobre esses projetos e outros trabalhos.
+Confira meu [portfolio](https://carolainealexandre.github.io/Carolaine-Alexandre) para mais detalhes sobre esses projetos e outros trabalhos.
 
 ## Estatísticas do GitHub
 
@@ -44,8 +44,8 @@ Confira meu [portfolio](https://seu-portfolio.com) para mais detalhes sobre esse
 ## Entre em Contato
 
 - LinkedIn: [carolaine-ferraz-alexandre](https://www.linkedin.com/in/carolaine-ferraz-alexandre/)
-- E-mail: [seu-email@exemplo.com]
-- Portfolio: [seu-portfolio]
+- E-mail: [carolaine.ferrazemp@gmail.com]
+- Portfolio: [Carolaine Alexandre](https://carolainealexandre.github.io/Carolaine-Alexandre/)
 - Instagram: [@caferraz__](https://www.instagram.com/caferraz__/)
 
 Vamos nos conectar e discutir sobre desenvolvimento, tecnologia e projetos interessantes! Será um prazer trocar ideias e colaborar em iniciativas incríveis. 😄
