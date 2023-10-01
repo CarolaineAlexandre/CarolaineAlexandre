@@ -20,7 +20,7 @@ Olá! 👋 Sou a Carolaine Alexandre, uma entusiasta da tecnologia apaixonada po
 
 ## Habilidades
 
-- 💻 Linguagens de programação: JavaScript, Typescript.
+- 💻 Linguagens de programação: JavaScript, TypeScript.
 - 🌐 Desenvolvimento web: React, Node.js.
 - 📊 Banco de dados: SQL server.
 - 🎨 Design: Adobe Photoshop, Corel DRAW.
