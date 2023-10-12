@@ -1,27 +1,53 @@
-# React + TypeScript + Vite
+<h1 align="center">Carolaine Alexandre</h1>
+<p align="center">
+  <img src="" alt="Banner Carolaine Alexandre">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="https://www.linkedin.com/in/carolaine-ferraz-alexandre/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.instagram.com/caferraz__/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.behance.net/carolaiferraz"><img src="https://img.shields.io/badge/Behance-View-053eff?style=for-the-badge&logo=behance"></a>
+</p>
 
-Currently, two official plugins are available:
+## Sobre Mim
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Olá! 👋 Sou a Carolaine Alexandre, uma entusiasta da tecnologia apaixonada por resolver problemas por meio do desenvolvimento de software. Estou sempre em busca de novos desafios que me permitam aprender e crescer como profissional. Tenho conhecimentos em diferentes áreas, desde desenvolvimento web até análise de dados.
 
-## Expanding the ESLint configuration
+- 👩‍💻 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Estou sempre aprendendo algo novo e me aprimorando em minhas habilidades técnicas.
+- 💡 Sou uma pessoa criativa e adoro encontrar soluções inovadoras para os problemas.
+- 💬 Estou aberta a colaborações e oportunidades interessantes.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Habilidades
 
-- Configure the top-level `parserOptions` property like this:
+- 💻 Linguagens de programação: JavaScript, TypeScript.
+- 🌐 Desenvolvimento web: React, Node.js.
+- 📊 Banco de dados: SQL server.
+- 🎨 Design: Adobe Photoshop, Corel DRAW.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## Projetos Destacados
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- 🚀 [Habit tracker](https://carolainealexandre.github.io/nlwSetup-rocketseat-habits/): App para usar como assistente de controle de hábitos estudando fundamentos da programação e tecnologias como HTML, CSS, JavaScript, Git e Github de maneira prática!
+- 🚀 [Portfólio](https://carolainealexandre.github.io/Carolaine-Alexandre/): Um portfólio de página em HTML e CSS que exibe projetos e habilidades profissionais em um layout visualmente atraente e interativo.
+- 🚀 [POKE API](https://carolainealexandre.github.io/desafio-pokeApi/): Uma página utilizando a API Pokémon para exibir informações e detalhes sobre diferentes Pokémon em um formato interativo.
+
+Confira meu [portfolio](https://carolainealexandre.github.io/Carolaine-Alexandre) para mais detalhes sobre esses projetos e outros trabalhos.
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/CarolaineAlexandre">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarolaineAlexandre&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolaineAlexandre&layout=compact&langs_count=7&theme=outrun"/>
+</div>
+
+## Entre em Contato
+
+- LinkedIn: [carolaine-ferraz-alexandre](https://www.linkedin.com/in/carolaine-ferraz-alexandre/)
+- E-mail: [carolaine.ferrazemp@gmail.com]
+- Portfolio: [Carolaine Alexandre](https://carolainealexandre.github.io/Carolaine-Alexandre/)
+- Instagram: [@caferraz__](https://www.instagram.com/caferraz__/)
+
+Vamos nos conectar e discutir sobre desenvolvimento, tecnologia e projetos interessantes! Será um prazer trocar ideias e colaborar em iniciativas incríveis. 😄
+
+
